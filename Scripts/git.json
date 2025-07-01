@@ -1,0 +1,73 @@
+[
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Returns.csv",
+        "p_sink_folder":"Returns",
+        "p_sink_file":"Returns.csv"
+    },
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder":"Sales",
+        "p_sink_file":"Sales_2015.csv"        
+        
+    },
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder":"Sales",
+        "p_sink_file":"Sales_2016.csv"
+            
+        
+    },
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder":"Sales",
+        "p_sink_file":"Sales_2017.csv"
+        
+    },
+
+
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Products.csv",
+        "p_sink_folder":"Products",
+        "p_sink_file":"Products.csv"
+    },
+
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Customers.csv",
+        "p_sink_folder":"Customers",
+        "p_sink_file":"Customers.csv"
+    },
+
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder":"Product_Subcategories",
+        "p_sink_file":"Product_Subcategories.csv"
+    },
+
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder":"Product_Categories",
+        "p_sink_file":"Product_Categories.csv"
+    },
+
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Calendar.csv",
+        "p_sink_folder":"Calendar",
+        "p_sink_file":"Calendar.csv"
+    },
+    {
+
+        "para_rela_url":"Vivek4993/Adventure-work-Azure-Data-Engineering-Project/refs/heads/main/dataset/AdventureWorks_Territories.csv",
+        "p_sink_folder":"Territories",
+        "p_sink_file":"Territories.csv"
+    
+    }
+]
