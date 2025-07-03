@@ -1,0 +1,1 @@
+Thsi is  SLQ queries performed in Azure Synapse Analytics to create views by pushing data it Serving(gold)  layer from tranformer ( silver) leyer
